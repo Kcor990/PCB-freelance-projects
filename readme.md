@@ -4,3 +4,7 @@ This repository contains different kind od project made for company FSS sp zoo. 
 
 
 ![WSLED congtroller WiFi + ETHERNET](PCB_portfolio/WSLED_pcb.jpg)
+
+
+
+![Converter RS485 for Datalogic scanner](PCB_portfolio/RS485_datalogic_converter.jpg)
