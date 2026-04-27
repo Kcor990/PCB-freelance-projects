@@ -8,3 +8,5 @@ This repository contains different kind od project made for company FSS sp zoo. 
 
 
 ![Converter RS485 for Datalogic scanner](PCB_portfolio/RS485_datalogic_converter.jpg)
+
+![Weighing strain gauges on PIC microcontroller](PCB_portfolio/weighing_strain_gaugesPDF.pdf)
